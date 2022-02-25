@@ -1,0 +1,15 @@
+{
+  "index_name": "typesense.config",
+  "sitemap_urls": [
+    "http://host.docker.internal:3000/sitemap.xml"
+  ],
+  "selectors": {
+    "lvl0": "",
+    "lvl1": "header h1",
+    "lvl2": "h2",
+    "lvl3": "article h3",
+    "lvl4": "article h4",
+    "lvl5": "article h5",
+    "text": "article p"
+  }
+}
